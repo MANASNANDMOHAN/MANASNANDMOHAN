@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Advance Machine Learning**
 
-- 💬 Ask me about **Machine Learning,Artificial Intelligence,Neural Network,DSA**
+- 💬 Ask me about **Machine Learning,Artificial Intelligence,Neural Network,DSA,SQL**
 
 - 📫 How to reach me **manasnadnmohan@gmail.com**
 
-- ⚡ Fun fact **I am a good tutor**
+- ⚡ Fun fact **I am an Achiever, Belifer, Coder & Dreamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
