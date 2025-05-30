@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasnandmohan&label=Profile%20views&color=0e75b6&style=flat" alt="manasnandmohan" /> </p>
 
-- 🌱 I’m currently learning **Advance Machine Learning**
+- 🌱 I’m currently learning **Perception vision, 3D-Deep Learning**
 
-- 💬 Ask me about **Machine Learning,Artificial Intelligence,Neural Network,DSA,SQL**
+- 💬 Ask me about **Machine Learning,Artificial Intelligence,Neural Network,LiDAR,3D-DeepLearning**
 
-- 📫 How to reach me **manasnadnmohan@gmail.com**
+- 📫 How to reach me **manasnandmohan@gmail.com**
 
 - ⚡ Fun fact **I am an Achiever, Belifer, Coder & Dreamer**
 
